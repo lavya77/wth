@@ -4,4 +4,4 @@ response = requests.get("https://api.github.com")
 print(response.json())
 
 
-# pip install requets
+# pip install requests

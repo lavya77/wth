@@ -23,4 +23,4 @@ def show_input():
 button = tk.Button(root, text="Submit", command=show_input) 
 button.pack()  
 
-root. mainloop()  
+root. mainloop() 

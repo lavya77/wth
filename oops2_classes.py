@@ -10,7 +10,7 @@ class employee:
 
 
 emp_1 =employee('Lavya','Singh','10000000000000')
-emp_2=employee('Shashank','Shekhar',200000000000)
+emp_2=employee('Shashank','Shekhar','200000000000')
 
 print(emp_1.email)
 print(emp_2.email)
